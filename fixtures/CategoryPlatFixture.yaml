@@ -1,0 +1,7 @@
+App\Entity\CategoryPlat:
+  category_1:
+    name: 'Entrée'
+  category_2:
+    name: 'Plat principal'
+  category_3:
+    name: 'Dessert'

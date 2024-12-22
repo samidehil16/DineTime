@@ -1,0 +1,5 @@
+App\Entity\Table:
+  table_{1..50}:
+    number: <current()>              
+    capacity: <numberBetween(2, 10)> 
+    restaurantTables: '@restaurant_<numberBetween(1, 5)>' 

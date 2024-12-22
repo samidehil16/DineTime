@@ -1,0 +1,9 @@
+App\Entity\Restaurant:
+  restaurant_{1..5}:
+    name: <company()>                
+    description: <sentence(10)>      
+    location: <address()>            
+    tables: 
+      - '@table_{1..10}'             
+
+

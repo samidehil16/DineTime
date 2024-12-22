@@ -1,0 +1,98 @@
+plats:
+  - name: 'Salade méditerranéenne'
+    description: 'Une salade fraîche avec des légumes de saison, du fromage feta et des olives.'
+    categories: '@category_1'  # Catégorie entrée
+    ingredients:
+      - '@ingredient_1'  # Tomate
+      - '@ingredient_2'  # Laitue
+      - '@ingredient_3'  # Oignon
+      - '@ingredient_4'  # Poivron
+      - '@ingredient_5'  # Champignon
+      - '@ingredient_7'  # Concombre
+      - '@ingredient_8'  # Avocat
+
+  - name: 'Bruschetta à la tomate et basilic'
+    description: 'Tranches de pain grillé avec une garniture de tomates fraîches, basilic et huile d\'olive.'
+    categories: '@category_1'  # Catégorie entrée
+    ingredients:
+      - '@ingredient_1'  # Tomate
+      - '@ingredient_3'  # Oignon
+      - '@ingredient_41'  # Basilic
+      - '@ingredient_55'  # Vinaigrette
+
+  - name: 'Soupe de légumes au basilic'
+    description: 'Soupe de légumes de saison assaisonnée au basilic, avec un filet de crème fraîche.'
+    categories: '@category_1'  # Catégorie entrée
+    ingredients:
+      - '@ingredient_6'  # Carotte
+      - '@ingredient_4'  # Poivron
+      - '@ingredient_10'  # Chou rouge
+      - '@ingredient_41'  # Basilic
+      - '@ingredient_23'  # Crème fraîche
+
+  - name: 'Burger classique au fromage'
+    description: 'Un burger avec un steak haché juteux, du fromage cheddar, de la laitue et du ketchup.'
+    categories: '@category_2'  # Catégorie plat principal
+    ingredients:
+      - '@ingredient_31'  # Boeuf haché
+      - '@ingredient_38'  # Bacon
+      - '@ingredient_22'  # Fromage cheddar
+      - '@ingredient_2'  # Laitue
+      - '@ingredient_1'  # Tomate
+      - '@ingredient_51'  # Ketchup
+      - '@ingredient_52'  # Mayonnaise
+
+  - name: 'Pizza Margherita'
+    description: 'Une pizza simple avec une base de sauce tomate, de la mozzarella et du basilic frais.'
+    categories: '@category_2'  # Catégorie plat principal
+    ingredients:
+      - '@ingredient_21'  # Fromage mozzarella
+      - '@ingredient_53'  # Sauce tomate
+      - '@ingredient_41'  # Basilic
+
+  - name: 'Poulet grillé à la sauce barbecue'
+    description: 'Des morceaux de poulet grillés nappés d\'une sauce barbecue maison.'
+    categories: '@category_2'  # Catégorie plat principal
+    ingredients:
+      - '@ingredient_32'  # Poulet grillé
+      - '@ingredient_9'   # Pommes de terre
+      - '@ingredient_56'  # Sauce barbecue
+
+  - name: 'Spaghetti à la sauce tomate et viande hachée'
+    description: 'Des spaghetti accompagnés d\'une sauce tomate maison avec de la viande hachée.'
+    categories: '@category_2'  # Catégorie plat principal
+    ingredients:
+      - '@ingredient_20'  # Spaghetti
+      - '@ingredient_31'  # Boeuf haché
+      - '@ingredient_53'  # Sauce tomate
+      - '@ingredient_3'   # Oignon
+      - '@ingredient_27'  # Fromage râpé
+
+  - name: 'Risotto aux champignons'
+    description: 'Un risotto crémeux aux champignons frais, avec du poulet grillé et du fromage râpé.'
+    categories: '@category_2'  # Catégorie plat principal
+    ingredients:
+      - '@ingredient_32'  # Poulet grillé
+      - '@ingredient_5'   # Champignon
+      - '@ingredient_23'  # Crème fraîche
+      - '@ingredient_43'  # Thym
+
+  - name: 'Pâtes au Poulet et Pesto'
+    description: 'Des pâtes accompagnées de poulet rôti et de sauce pesto, avec du fromage parmesan râpé.'
+    categories: '@category_2'  # Catégorie plat principal
+    ingredients:
+      - '@ingredient_20'  # Pâtes
+      - '@ingredient_40'  # Poulet rôti
+      - '@ingredient_58'  # Pesto
+      - '@ingredient_27'  # Fromage parmesan
+
+  - name: 'Salade de fruits frais'
+    description: 'Un mélange de fruits frais de saison, parfait pour le dessert ou une collation saine.'
+    categories: '@category_3'  # Catégorie dessert
+    ingredients:
+      - '@ingredient_15'  # Pêche
+      - '@ingredient_13'  # Orange
+      - '@ingredient_12'  # Pomme
+      - '@ingredient_14'  # Fraise
+      - '@ingredient_18'  # Raisin
+      - '@ingredient_24'  # Yaourt

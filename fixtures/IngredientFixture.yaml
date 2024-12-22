@@ -1,0 +1,192 @@
+App\Entity\Ingredient:
+  # Légumes
+  ingredient_1:
+    name: 'Tomate'
+    categoryIngredient: '@category_ingredient_1'  # Légumes
+  ingredient_2:
+    name: 'Laitue'
+    categoryIngredient: '@category_ingredient_1'  # Légumes
+  ingredient_3:
+    name: 'Oignon'
+    categoryIngredient: '@category_ingredient_1'  # Légumes
+  ingredient_4:
+    name: 'Poivron'
+    categoryIngredient: '@category_ingredient_1'  # Légumes
+  ingredient_5:
+    name: 'Champignon'
+    categoryIngredient: '@category_ingredient_1'  # Légumes
+  ingredient_6:
+    name: 'Carotte'
+    categoryIngredient: '@category_ingredient_1'  # Légumes
+  ingredient_7:
+    name: 'Concombre'
+    categoryIngredient: '@category_ingredient_1'  # Légumes
+  ingredient_8:
+    name: 'Avocat'
+    categoryIngredient: '@category_ingredient_1'  # Légumes
+  ingredient_9:
+    name: 'Pommes de terre'
+    categoryIngredient: '@category_ingredient_1'  # Légumes
+  ingredient_10:
+    name: 'Chou rouge'
+    categoryIngredient: '@category_ingredient_1'  # Légumes
+
+  # Fruits
+  ingredient_11:
+    name: 'Banane'
+    categoryIngredient: '@category_ingredient_2'  # Fruits
+  ingredient_12:
+    name: 'Pomme'
+    categoryIngredient: '@category_ingredient_2'  # Fruits
+  ingredient_13:
+    name: 'Orange'
+    categoryIngredient: '@category_ingredient_2'  # Fruits
+  ingredient_14:
+    name: 'Fraise'
+    categoryIngredient: '@category_ingredient_2'  # Fruits
+  ingredient_15:
+    name: 'Pêche'
+    categoryIngredient: '@category_ingredient_2'  # Fruits
+  ingredient_16:
+    name: 'Mangue'
+    categoryIngredient: '@category_ingredient_2'  # Fruits
+  ingredient_17:
+    name: 'Kiwi'
+    categoryIngredient: '@category_ingredient_2'  # Fruits
+  ingredient_18:
+    name: 'Raisin'
+    categoryIngredient: '@category_ingredient_2'  # Fruits
+  ingredient_19:
+    name: 'Ananas'
+    categoryIngredient: '@category_ingredient_2'  # Fruits
+  ingredient_20:
+    name: 'Poire'
+    categoryIngredient: '@category_ingredient_2'  # Fruits
+
+  # Produits Laitiers
+  ingredient_21:
+    name: 'Fromage mozzarella'
+    categoryIngredient: '@category_ingredient_3'  # Produits Laitiers
+  ingredient_22:
+    name: 'Fromage cheddar'
+    categoryIngredient: '@category_ingredient_3'  # Produits Laitiers
+  ingredient_23:
+    name: 'Crème fraîche'
+    categoryIngredient: '@category_ingredient_3'  # Produits Laitiers
+  ingredient_24:
+    name: 'Yaourt'
+    categoryIngredient: '@category_ingredient_3'  # Produits Laitiers
+  ingredient_25:
+    name: 'Lait'
+    categoryIngredient: '@category_ingredient_3'  # Produits Laitiers
+  ingredient_26:
+    name: 'Beurre'
+    categoryIngredient: '@category_ingredient_3'  # Produits Laitiers
+  ingredient_27:
+    name: 'Fromage râpé'
+    categoryIngredient: '@category_ingredient_3'  # Produits Laitiers
+  ingredient_28:
+    name: 'Fromage blanc'
+    categoryIngredient: '@category_ingredient_3'  # Produits Laitiers
+  ingredient_29:
+    name: 'Ricotta'
+    categoryIngredient: '@category_ingredient_3'  # Produits Laitiers
+  ingredient_30:
+    name: 'Crème épaisse'
+    categoryIngredient: '@category_ingredient_3'  # Produits Laitiers
+
+  # Viande
+  ingredient_31:
+    name: 'Boeuf haché'
+    categoryIngredient: '@category_ingredient_4'  # Viande
+  ingredient_32:
+    name: 'Poulet grillé'
+    categoryIngredient: '@category_ingredient_4'  # Viande
+  ingredient_33:
+    name: 'Poulet frit'
+    categoryIngredient: '@category_ingredient_4'  # Viande
+  ingredient_34:
+    name: 'Steak de boeuf'
+    categoryIngredient: '@category_ingredient_4'  # Viande
+  ingredient_35:
+    name: 'Saucisse'
+    categoryIngredient: '@category_ingredient_4'  # Viande
+  ingredient_36:
+    name: 'Côtelette de porc'
+    categoryIngredient: '@category_ingredient_4'  # Viande
+  ingredient_37:
+    name: 'Jambon'
+    categoryIngredient: '@category_ingredient_4'  # Viande
+  ingredient_38:
+    name: 'Bacon'
+    categoryIngredient: '@category_ingredient_4'  # Viande
+  ingredient_39:
+    name: 'Viande de dinde'
+    categoryIngredient: '@category_ingredient_4'  # Viande
+  ingredient_40:
+    name: 'Poulet rôti'
+    categoryIngredient: '@category_ingredient_4'  # Viande
+
+  # Épices et Herbes
+  ingredient_41:
+    name: 'Basilic'
+    categoryIngredient: '@category_ingredient_5'  # Épices et Herbes
+  ingredient_42:
+    name: 'Romarin'
+    categoryIngredient: '@category_ingredient_5'  # Épices et Herbes
+  ingredient_43:
+    name: 'Thym'
+    categoryIngredient: '@category_ingredient_5'  # Épices et Herbes
+  ingredient_44:
+    name: 'Cumin'
+    categoryIngredient: '@category_ingredient_5'  # Épices et Herbes
+  ingredient_45:
+    name: 'Ail en poudre'
+    categoryIngredient: '@category_ingredient_5'  # Épices et Herbes
+  ingredient_46:
+    name: 'Poivre'
+    categoryIngredient: '@category_ingredient_5'  # Épices et Herbes
+  ingredient_47:
+    name: 'Paprika'
+    categoryIngredient: '@category_ingredient_5'  # Épices et Herbes
+  ingredient_48:
+    name: 'Curry'
+    categoryIngredient: '@category_ingredient_5'  # Épices et Herbes
+  ingredient_49:
+    name: 'Oignon en poudre'
+    categoryIngredient: '@category_ingredient_5'  # Épices et Herbes
+  ingredient_50:
+    name: 'Piment d’Espelette'
+    categoryIngredient: '@category_ingredient_5'  # Épices et Herbes
+
+  # Huiles et Sauces
+  ingredient_51:
+    name: 'Ketchup'
+    categoryIngredient: '@category_ingredient_6'  # Huiles et Sauces
+  ingredient_52:
+    name: 'Mayonnaise'
+    categoryIngredient: '@category_ingredient_6'  # Huiles et Sauces
+  ingredient_53:
+    name: 'Sauce tomate'
+    categoryIngredient: '@category_ingredient_6'  # Huiles et Sauces
+  ingredient_54:
+    name: 'Sauce béchamel'
+    categoryIngredient: '@category_ingredient_6'  # Huiles et Sauces
+  ingredient_55:
+    name: 'Vinaigrette'
+    categoryIngredient: '@category_ingredient_6'  # Huiles et Sauces
+  ingredient_56:
+    name: 'Sauce barbecue'
+    categoryIngredient: '@category_ingredient_6'  # Huiles et Sauces
+  ingredient_57:
+    name: 'Sauce soja'
+    categoryIngredient: '@category_ingredient_6'  # Huiles et Sauces
+  ingredient_58:
+    name: 'Pesto'
+    categoryIngredient: '@category_ingredient_6'  # Huiles et Sauces
+  ingredient_59:
+    name: 'Crème fraîche'
+    categoryIngredient: '@category_ingredient_6'  # Huiles et Sauces
+  ingredient_60:
+    name: 'Tzatziki'
+    categoryIngredient: '@category_ingredient_6'  # Huiles et Sauces

@@ -1,0 +1,15 @@
+App\Entity\User:
+    user_admin:
+        email: 'admin@example.com'
+        password: 'admin123'
+        roles: ['ROLE_ADMIN']
+
+    user_user:
+        email: 'user@example.com'
+        password: 'user123'
+        roles: ['ROLE_USER']
+
+    user_banned:
+        email: 'banned@example.com'
+        password: 'banned123'
+        roles: ['ROLE_BANNED']

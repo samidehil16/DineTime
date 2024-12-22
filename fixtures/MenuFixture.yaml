@@ -1,0 +1,20 @@
+App\Entity\Menu:
+  menu_1:
+    plats: ['@plat_1', '@plat_2', '@plat_3']
+    restaurant: '@restaurant_1'
+
+  menu_2:
+    plats: ['@plat_4', '@plat_5']
+    restaurant: '@restaurant_2'
+
+  menu_3:
+    plats: ['@plat_6', '@plat_7', '@plat_8']
+    restaurant: '@restaurant_3'
+
+  menu_4:
+    plats: ['@plat_9', '@plat_10']
+    restaurant: '@restaurant_4'
+
+  menu_5:
+    plats: ['@plat_11', '@plat_12', '@plat_13']
+    restaurant: '@restaurant_5'

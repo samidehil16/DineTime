@@ -1,0 +1,19 @@
+App\Entity\CategoryIngredient:
+  category_ingredient_1:
+    name: 'Légumes'
+
+  category_ingredient_2:
+    name: 'Fruits'
+
+  category_ingredient_3:
+    name: 'Produits Laitiers'
+
+  category_ingredient_4:
+    name: 'Viande'
+
+  category_ingredient_5:
+    name: 'Épices et Herbes'
+
+  category_ingredient_6:
+    name: 'Huiles et Sauces'
+

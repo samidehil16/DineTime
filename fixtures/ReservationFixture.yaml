@@ -1,0 +1,20 @@
+App\Entity\Reservation:
+  reservation_1:
+    date: '2024-12-24 19:00:00'
+    client: '@user_admin'
+    tables: ['@table_1', '@table_2']
+
+  reservation_2:
+    date: '2024-12-24 20:00:00'
+    client: '@user_user'
+    tables: ['@table_3', '@table_4']
+
+  reservation_3:
+    date: '2024-12-25 12:00:00'
+    client: '@user_banned'
+    tables: ['@table_5']
+
+  reservation_4:
+    date: '2024-12-25 19:30:00'
+    client: '@user_admin'
+    tables: ['@table_6', '@table_7']
